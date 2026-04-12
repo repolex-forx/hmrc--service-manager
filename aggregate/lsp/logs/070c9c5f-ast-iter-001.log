@@ -1,0 +1,7 @@
+[2026-04-12T22:11:24Z] === AST ITERATION 1 START | repo=hmrc/service-manager sha=070c9c5f ===
+[2026-04-12T22:11:24Z] [iter=1] PHASE START: ast repo=hmrc/service-manager sha=070c9c5f
+[2026-04-12T22:11:24Z] [iter=1] Building AST aggregate chunks
+[2026-04-12T22:11:46Z] [iter=1] AST chunks built count=1 triples=279502
+[2026-04-12T22:11:46Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/070c9c5f90679b0a3fabe063d246e84b5bd371c1/.complete
+[2026-04-12T22:11:46Z] [iter=1] PHASE END: ast elapsed_s=23 elapsed_min=0.4
+[2026-04-12T22:11:46Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
