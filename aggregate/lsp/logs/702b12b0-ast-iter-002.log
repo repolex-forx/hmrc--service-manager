@@ -1,0 +1,6 @@
+[2026-04-14T13:15:02Z] === AST ITERATION 2 START | repo=hmrc/service-manager sha=702b12b0 ===
+[2026-04-14T13:15:02Z] [iter=2] PHASE START: ast repo=hmrc/service-manager sha=702b12b0
+[2026-04-14T13:15:02Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/702b12b012223bc2647bc89e4d14faad1b86293b
+[2026-04-14T13:15:02Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/702b12b012223bc2647bc89e4d14faad1b86293b/.complete
+[2026-04-14T13:15:02Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-04-14T13:15:02Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
